@@ -1,0 +1,240 @@
+{
+    "skills":
+    [
+        {
+    "id":1,
+    "tools":[
+        {
+            "id":1,
+            "name":"Java",
+            "icon":"../../img/skills/java.jpg"
+        },
+        {
+            "id":2,
+            "name":"Javascript",
+            "icon":"../../img/skills/js.png"
+        },
+        {
+            "id":8,
+            "name":"TypeScript",
+            "icon":"../../img/skills/ts.png"
+        },
+        {
+            "id":3,
+            "name":"C",
+            "icon":"../../img/skills/c.png"
+        },
+        {
+            "id":4,
+            "name":"C++",
+            "icon":"../../img/skills/cpp.png"
+        },
+        {
+            "id":5,
+            "name":"Python",
+            "icon":"../../img/skills/python.jpg"
+        },
+        {
+            "id":6,
+            "name":"CSS",
+            "icon":"../../img/skills/css.jpg"
+        }
+    ],
+    "title":"Programming Languages",
+    "description":"skdjfkjsbf"
+},
+{
+    "id":2,
+    "tools":[
+        {
+            "id":1,
+            "name":"React Js",
+            "icon":"../../img/skills/react.png"
+        },
+        {
+            "id":2,
+            "name":"Angular Js",
+            "icon":"../../img/skills/angular.png"
+        }
+    ],
+    "title":"Frontend Frameworks",
+    "description":"skdjfkjsbf"
+},
+{
+    "id":3,
+    "tools":[
+        {
+            "id":1,
+            "name":"Spring Boot",
+            "icon":"../../img/skills/spring.png"
+        },
+        {
+            "id":2,
+            "name":"Express JS",
+            "icon":"../../img/skills/express.png"
+        }
+    ],
+    "title":"Backend Frameworks",
+    "description":"skdjfkjsbf"
+},
+{
+    "id":4,
+    "tools":[
+        {
+            "id":1,
+            "name":"Tailwind CSS",
+            "icon":"../../img/skills/tailwind.png"
+        },
+        {
+            "id":2,
+            "name":"Bootstrap",
+            "icon":"../../img/skills/bootrap.jpg"
+        }
+    ],
+    "title":"CSS Frameworks"
+},
+{
+    "id":5,
+    "tools":[
+        {
+            "id":1,
+            "name":"MySQL",
+            "icon":"../../img/skills/mysql.png"
+        },
+        {
+            "id":2,
+            "name":"MongoDB",
+            "icon":"../../img/skills/mongo.png"
+        }
+    ],
+    "title":"Databases",
+    "description":"skdjfkjsbf"
+},
+{
+    "id":6,
+    "tools":[
+        {
+            "id":1,
+            "name":"Git",
+            "icon":"../../img/skills/git.png"
+        },
+        {
+            "id":2,
+            "name":"Github",
+            "icon":"../../img/skills/github.png"
+        },
+        {
+            "id":3,
+            "name":"Jira",
+            "icon":"../../img/skills/jira.jpg"
+        },
+        {
+            "id":3,
+            "name":"Trello",
+            "icon":"../../img/skills/trello.png"
+        }
+    ],
+    "title":"Software Tools",
+    "description":"skdjfkjsbf"
+}
+],
+"portfolio":
+[
+{
+    "id":1,
+    "src":"../../img/projects/hardwareShop.png",
+    "title":"Niwahana Hardware Shop",
+    "skills":"Angular , Spring Boot , MySQL , Hibernate",
+    "description":"Niwahana hardware shop is an E-commerce web application. This is an individual software project has been done by me. ",
+    "githubLink":"https://github.com/Lhtlakshan/niwahana-hardware-shop-backend"
+},
+{
+    "id":2,
+    "src":"../../img/projects/mosBurgers.png",
+    "title":"MOS Burgers",
+    "skills":"HTML , CSS , JavaScript",
+    "description":"MOS Burgers is a frontend simple POS system. This is an individual software project has been done by me.",
+    "githubLink":"https://github.com/Lhtlakshan/niwahana-hardware-shop-backend"
+},
+{
+    "id":3,
+    "src":"../../img/projects/hospital.jpg",
+    "title":"Prescription Management - WeCare System",
+    "skills":"Backend - Spring boot, Microservice, Maven, MySQL and Frontend - Angular, Typescript",
+    "description":"WeCare prescription management system is an innovative, highly reliable, and expertly developed system tailored to transform healthcare delivery. By streamlining the prescription process, it enhances accuracy, ensures compliance, and improves overall operational efficiency. Also it provides advanced capabilities and robust security.Responsibilities are Handling patients’ medical prescriptions, Full-stack development",
+    "githubLink":"https://github.com/Lhtlakshan/niwahana-hardware-shop-backend"
+},
+{
+    "id":4,
+    "src":"../../img/projects/becare.jpg",
+    "title":"Be Care",
+    "skills":"HTML , CSS , JavaScript and PHP",
+    "description":"Public Health web application. The 2 nd year group project at UCSC.I have done the Counsellor's and Meditation instructor's Functionalities of this project",
+    "githubLink":"https://github.com/Janod-Umayanga/bE-CARE"
+
+},
+{
+    "id":5,
+    "src":"../../img/projects/weather_app.png",
+    "title":"Weather Application",
+    "skills":"HTML , CSS , JavaScript and Weather APIs",
+    "description":"A real time weather application created using Weather APIs. This is an individual software project has been done by me.",
+    "githubLink":"https://github.com/Lhtlakshan/weather-app"
+
+},
+{
+    "id":6,
+    "src":"../../img/projects/portfolio.png",
+    "title":"Portfolio Website",
+    "skills":"React Js and Tailwind CSS",
+    "description":"This is my own portforlio website. In this web site created only using fronend technologies.",
+    "githubLink":"https://github.com/Lhtlakshan/Portfolio-WebSite"
+
+}
+]
+,
+"items":[
+    {
+    "id":7,
+    "tools":[
+        {
+            "id":1,
+            "name":"Agile/Scrum"
+        },
+        {
+            "id":2,
+            "name":"Waterfall"
+        }
+    ],
+    "title":"Software Development methodologies",
+    "description":"skdjfkjsbf"
+},
+{
+    "id":7,
+    "tools":[
+        {
+            "id":1,
+            "name":"Communication"
+        },
+        {
+            "id":2,
+            "name":"Team work"
+        },
+        {
+            "id":3,
+            "name":"Time management"
+        },
+        {
+            "id":4,
+            "name":"Problem solving"
+        },
+        {
+            "id":5,
+            "name":"Analytical skills"
+        }
+    ],
+    "title":"Soft Skills",
+    "description":"skdjfkjsbf"
+}
+]
+}
